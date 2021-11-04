@@ -68,4 +68,3 @@ np.save(recDir[:-1]+'_data',X)
 np.save(recDir[:-1]+'_labels',y)
 print('Saving Complete')
 print("Total processing time: {:.1f} minutes".format((time.time()-t0)/60))
-

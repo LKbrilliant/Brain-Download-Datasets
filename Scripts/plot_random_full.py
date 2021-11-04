@@ -1,7 +1,7 @@
 # Code by: Anuradha Gunawardhana
 # Date: 2021.11.03
 # Usage: python plot_random_full.py RECORD_DIRECTORY
-# This will plot a random complete .csv record
+# This will plot a random complete (.csv) record
 
 import matplotlib.pyplot as plt
 from os import listdir
