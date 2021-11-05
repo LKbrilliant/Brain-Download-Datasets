@@ -1,7 +1,7 @@
 # Brain-Download-Datasets
 
 ## Dataset
-The dataset contain EEG signals recorded from EMOTIV Insight 5-Cannel headset of four different experiments. All the following experiments except for *Baseline* were conducted by visually stimulating the subject's brain with a random image presentation. The image sequencing was done using the [Brain Download](https://github.com/LKbrilliant/Brain-Download) software. 
+The dataset contain EEG signals recorded from `EMOTIV Insight` 5-Cannel headset of four different experiments. All the following experiments except for *Baseline* were conducted by visually stimulating the subject's brain with a random image presentation. The image sequencing was done using the [Brain Download](https://github.com/LKbrilliant/Brain-Download) software. 
 
 1. **Baseline**: EEG signals of calmed mind with eyes opened and closed.
 2. **Image-Blank**: Simulated thinking “something” and “nothing” on the subject’s brain by randomly presenting images and blank screens.
