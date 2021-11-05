@@ -32,10 +32,10 @@ All the data samples from the above mentioned experiments were collected using o
 
 | Property | Image-Blank | Left-Right | Visual_Q&A |
 | -------- | ----------- | ----------------- | ---------- |
-| Number of classes |`2` (Image, Blank)| `3` (Center, Left, Right)| `2` (Yes, No) | 
-| Number of images in the image-set | `500` | `320` | `250` |
-| Image resolution | `1200x800 pixels` | `1896x790 pixels` | `1200x800 pixels` | 
-| Screen time for an image | `2 seconds` | `2 seconds` |`2 seconds` |
-| Image presentations per record(.csv file) | `20` | `20` | `20` | 
-| Number of records | `500` | `300` | `250` |
-| Total stimuli observed | `10,000` | `6,000` | `5,000` |
+| Number of classes |2 (Image, Blank)| 3 (Center, Left, Right)| 2 (Yes, No) | 
+| Number of images in the image-set | 500 | 320 | 250 |
+| Image resolution | 1200x800 pixels | 1896x790 pixels | 1200x800 pixels | 
+| Screen time for an image | 2 seconds | 2 seconds |2 seconds |
+| Image presentations per record(.csv file) | 20 | 20 | 20 | 
+| Number of records | 500 | 300 | 250 |
+| Total stimuli observed | 10,000 | 6,000 | 5,000 |
