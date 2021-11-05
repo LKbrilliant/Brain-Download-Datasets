@@ -27,4 +27,15 @@ The dataset contain EEG signals recorded from `EMOTIV Insight` 5-channel headset
 - You can split the records (.csv files) into smaller chunks of watching one stimulus by using the `splitter.py` script. The separated chunks and their labels will be saved as `.npy` files. 
 - You can plot some random chunks in a saved `.npy` data file by using the `plot_random_split.py`.
 
-## Experiment Details (WIP)
+## Experiment Details
+All the data samples from the above mentioned experiments were collected using one male subject (25 years old). The following table shows the details of the performed experiments. 
+
+| Property | Image-Blank | Left-Right | Visual_Q&A |
+| -------- | ----------- | ----------------- | ---------- |
+| Number of classes |`2` (Image, Blank)| `3` (Center, Left, Right)| `2` (Yes, No) | 
+| Number of images in the image-set | `500` | `320` | `250` |
+| Image resolution | `1200x800 pixels` | `1896x790 pixels` | `1200x800 pixels` | 
+| Screen time for an image | `2 seconds` | `2 seconds` |`2 seconds` |
+| Image presentations per record(.csv file) | `20` | `20` | `20` | 
+| Number of records | `500` | `300` | `250` |
+| Total stimuli observed | `10,000` | `6,000` | `5,000` |
