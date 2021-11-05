@@ -7,19 +7,19 @@ The dataset contain EEG signals recorded from `EMOTIV Insight` 5-channel headset
 2. **Image-Blank**: Simulated thinking “something” and “nothing” on the subject’s brain by randomly presenting images and blank screens.
 
 <p align="center">
-  <img src="media/Image-Blank.gif" alt="Image-Blank" width="800"/>
+  <img src="Media/Image-Blank.gif" alt="Image-Blank" width="800"/>
 </p>
 
 3. **Left-Right_Arrows**: Showed left and right directed arrows on the left and right edges of the screen respectively and the subject was instructed to directly look at them without moving the head. Since the image sequence is randomized, a reference mark was presented at the center of the screen after each arrow image.
 
 <p align="center">
-<img src="media/Left-Right.gif" alt="Left-Right_Arrows" width="800"/>
+<img src="Media/Left-Right.gif" alt="Left-Right_Arrows" width="800"/>
 </p>
 
 4. **Visual_Q&A**: Simultaneously displayed a YES or NO answerable question about the presented image and instructed the subject to think about the answer.
 
 <p align="center">
-<img src="media/Yes-No.gif" alt="Visual_Q&A" width="800"/>
+<img src="Media/Yes-No.gif" alt="Visual_Q&A" width="800"/>
 </p>
 
 ## Scripts
